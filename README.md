@@ -15,4 +15,4 @@ eg:
 
     $ ./main -d dataEuclidean.csv -o myOutputFile -q QueryEuclidean.csv
     
-The mwtric space has to be the same in input and query file
+The metric space has to be the same in input and query file
